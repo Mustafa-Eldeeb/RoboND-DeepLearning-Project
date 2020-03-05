@@ -67,7 +67,7 @@ At last epoch :
 
 To evaluate how well the FCN model is doing under different conditions. We will be using three different predictions available from the helper code provided and data provided (as mentioned above in data gathering section):
 
-Below is taken from one of the test trainings runs (**Parameters Set 5**).
+Below is taken from one of the test trainings runs.
 
 ### following_images:
 Test how well the network can identify the target while following them.
