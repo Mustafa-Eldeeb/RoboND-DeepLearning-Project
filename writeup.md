@@ -35,10 +35,11 @@ For this project I've chosen a model with 2 encoder layers, the 1x1 convolution,
     # The function returns the output layer of your model. "x" is the final layer obtained from the last decoder_block()
     return layers.Conv2D(num_classes, 1, activation='softmax', padding='same')(x)
 ```
-###Training data
-I have used a simple training dataset that has been provided in this project's repository.
+### Training data
 
-###Hyperparameters
+I have used a simple training dataset that has been provided in this project's repository. you can generate more data using the simulator. Additional training data will improve the score. 
+
+### Hyperparameters
 
 batch_size: number of training samples/images that get propagated through the network in a single pass.
 num_epochs: number of times the entire training dataset gets propagated through the network.
