@@ -5,7 +5,7 @@
 ## Writeup by Mustafa_eldeeb
 ## Mar 2020
 ## [Rubric](https://review.udacity.com/#!/rubrics/1155/view) Points
-
+<p align="center"> <img src="./docs/misc/simulator.png"> </p>
 In this project we will train a fully convolutional (FCN) deep neural network to identify and track a target in simulation. So-called “follow me” applications like this are key to many fields of robotics and the very same techniques you apply here could be extended to scenarios like advanced cruise control in autonomous vehicles or human-robot collaboration in industry.
 
 ### Fully Convolutional Networks
